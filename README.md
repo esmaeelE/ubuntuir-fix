@@ -1,11 +1,11 @@
 # ubutuir-fix
 
-** This add-on injects JavaScript into web pages. **
+**This add-on injects JavaScript into web pages.**
 
 This extension just includes:
 
-** a content script, "ubuntuir-fix.js", that is injected into any pages
-under "ubuntu.ir/" or any of its subdomains. **
+**a content script, "ubuntuir-fix.js", that is injected into any pages
+under "ubuntu.ir/" or any of its subdomains.**
 
 The content script Redirects broken links in Iranian UBUNTU community website
 to hopfully correct place.
