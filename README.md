@@ -14,14 +14,12 @@ This project based on
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
 
-##Install
+#Install
 
 After decompress files, goto about:debugging in firefox.
 Click on Load Temporary Add-ones.
 and give address of ubuntuir-fix.js
 
-##Usage
+#Usage
 If this Add-on install corectlly, broken links in ubuntu.ir redirects to hopefully
 correct place.
-
-# ubuntuir-fix
