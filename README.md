@@ -4,8 +4,8 @@
 
 This extension just includes:
 
-**a content script, "ubuntuir-fix.js", that is injected into any pages
-under "ubuntu.ir/" or any of its subdomains.**
+A content script, "ubuntuir-fix.js", that is injected into any pages
+under "ubuntu.ir/" or any of its subdomains.
 
 The content script Redirects broken links in Iranian UBUNTU community website
 to hopfully correct place.
