@@ -1,0 +1,19 @@
+{
+
+  "description": "Fix broken link in ubuntu.ir" ,
+  "manifest_version": 2,
+  "name": "ubuntuir-fix",
+  "version": "1.0",
+  "homepage_url": "https://github.com/",
+  "icons": {
+    "48": "icons/ubuntu-fix.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.ubuntu.ir/*"],
+      "js": ["ubuntuir-fix.js"]
+    }
+  ]
+
+}
