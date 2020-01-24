@@ -26,3 +26,9 @@ and give address of ubuntuir-fix.js
 
 If this Add-on install corectlly, broken links in ubuntu.ir redirects to hopefully
 correct place.
+
+## [Iranian Ubuntu Community](https://ubuntu.ir/)
+
+Related topic in this community
+
+[اخبار در پانوشت انجمن](https://forum.ubuntu.ir/index.php?topic=149896)
